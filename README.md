@@ -1,4 +1,4 @@
-# Full Stack JS Assignment 15
+# Full Stack JS Tailwind Assignment 
 # Paytm Clone
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
 ![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
@@ -8,7 +8,7 @@
 
 ![name](https://img.shields.io/badge/name%20-praveen-green)
 
-## Project 15 [Live Link](https://fs-js-project-15.netlify.app/)
+## Project  [Live Link](https://paytm-clone-tailwind-project.netlify.app/)
 
 -   What i learnt in this project
    - learnt tailwind css and its properties 
